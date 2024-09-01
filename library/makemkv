@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 1.17.7, 1.17, 1, latest
+GitCommit: 416cfa75a350c77c86fcd458964e64fc95df599b
+Directory: makemkv

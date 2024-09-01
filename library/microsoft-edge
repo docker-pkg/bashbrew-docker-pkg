@@ -1,0 +1,14 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 128.0.2739.54-1-stable, 128.0.2739.54-stable, 128.0.2739-stable, 128.0-stable, 128-stable, stable
+GitCommit: 3370bd95a9f82b830aeebff65d90b27d011304f4
+Directory: microsoft-edge/stable
+
+Tags: 129.0.2792.12-1-beta, 129.0.2792.12-beta, 129.0.2792-beta, 129.0-beta, 129-beta, beta
+GitCommit: d5114b98931402261557655b39719317f0eca822
+Directory: microsoft-edge/beta
+
+Tags: 129.0.2792.10-1-dev, 129.0.2792.10-dev, 129.0.2792-dev, 129.0-dev, 129-dev, dev
+GitCommit: 2a127f7fd5028391475745ec255fd7666e3d3975
+Directory: microsoft-edge/dev

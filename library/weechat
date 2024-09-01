@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 4.4.1-1, 4.4.1, 4.4, 4, latest
+GitCommit: e64b7acf8b6818513511994375a7b88fcacd97e7
+Directory: weechat

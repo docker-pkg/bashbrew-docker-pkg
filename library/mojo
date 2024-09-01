@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: latest
+GitCommit: 1461dbdd7bda6d51c0219e8a7cf7eae03669de93
+Directory: mojo

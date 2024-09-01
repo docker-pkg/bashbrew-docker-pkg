@@ -1,0 +1,18 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 2.54.1, 2.54, 2, latest
+GitCommit: a1d1fbaf47c93a2cf2b84a8a9bc30ff89b204187
+Directory: prometheus
+
+Tags: alertmanager-0.27.0, alertmanager-0.27, alertmanager-0, alertmanager
+GitCommit: 4922d021769ad38f171259fbce3a913cf5c863bd
+Directory: prometheus/alertmanager
+
+Tags: blackbox-exporter-0.25.0, blackbox-exporter-0.25, blackbox-exporter-0, blackbox-exporter
+GitCommit: 4922d021769ad38f171259fbce3a913cf5c863bd
+Directory: prometheus/blackbox-exporter
+
+Tags: node-exporter-1.8.2, node-exporter-1.8, node-exporter-1, node-exporter
+GitCommit: dd5098a85ea7ef0f0f87064982aa08cd16d44ebc
+Directory: prometheus/node-exporter

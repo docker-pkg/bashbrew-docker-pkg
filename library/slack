@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 4.39.95, 4.39, 4, latest
+GitCommit: 2b2dbd07ae840b22eed49a0cb108766fd9a033d1
+Directory: slack

@@ -1,0 +1,7 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, ppc64le, s390x
+
+Tags: linux-6.10.7, latest
+GitCommit: 3996128a2edd6d7039dbe37118841f92511a048c
+Directory: nolibc

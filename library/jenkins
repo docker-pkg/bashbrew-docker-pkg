@@ -1,0 +1,10 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 2.474, 2, weekly, latest
+GitCommit: 79479323663bc1a4a09a3e45aab2cea7a2fe8d9c
+Directory: jenkins/weekly
+
+Tags: 2.462.1-lts, 2.462-lts, 2-lts, lts
+GitCommit: f24f9e12b1ea051aba656e1097e9faf1bd7cd80f
+Directory: jenkins/lts

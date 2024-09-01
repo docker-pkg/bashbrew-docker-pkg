@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 0.5.17, 0.5, 0, latest
+GitCommit: f3de4da92792ec65500a84eac369ac7465d5edf8
+Directory: lutris

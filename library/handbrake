@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 1.8.2, 1.8, 1, latest
+GitCommit: 31c6643f88b93e5c596ee3f8e771de98388acd45
+Directory: handbrake

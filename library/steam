@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 1.0.0.81, 1.0.0, 1.0, 1, latest
+GitCommit: 67d9dd9479f303ad647f2602a0ea62c9203a50bd
+Directory: steam

@@ -1,0 +1,5 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/uscan-helper.git
+
+Tags: latest
+GitCommit: c37a01dcd2ec254226b8a643cbc94ccf27c5f3de

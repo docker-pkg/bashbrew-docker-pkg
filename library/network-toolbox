@@ -1,0 +1,12 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: debian, bullseye, latest
+GitCommit: 56a628eea5ede0820f24912300c593de1f7f8cf5
+Directory: network-toolbox/debian
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+
+Tags: alpine, alpine3.20
+GitCommit: 4922d021769ad38f171259fbce3a913cf5c863bd
+Directory: network-toolbox/alpine
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, riscv64, s390x

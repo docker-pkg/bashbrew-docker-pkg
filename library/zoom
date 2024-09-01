@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 6.1.11.1545, 6.1.11, 6.1, 6, latest
+GitCommit: 06d32d5eba25dc780266d4d266544661b0572acb
+Directory: zoom

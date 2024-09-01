@@ -1,0 +1,5 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/pgp-happy-eyeballs.git
+
+Tags: latest
+GitCommit: 86a23b2d7e2efbc561eb4c0f0a53d17bf52edf79

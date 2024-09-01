@@ -1,0 +1,5 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/squignix.git
+
+Tags: latest
+GitCommit: 2e5d56da7914bfdf7764df527f3f6ecc7d9569c0

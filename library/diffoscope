@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 277, latest
+GitCommit: 09492194cf0bd78963468308769040dbe87a2d0e
+Directory: diffoscope
