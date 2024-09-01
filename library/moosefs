@@ -1,0 +1,14 @@
+# this file is generated via https://github.com/docker-pkg/docker-moosefs/blob/28547062635e7034dd42d5132a1f9f936c0b2f28/generate-stackbrew-library.sh
+
+Maintainers: Docker Package <admwiggin@gmail.com> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/docker-moosefs.git
+
+Tags: 3.0.118, 3.0, 3, latest
+GitCommit: 8596fb2292c1c78b668d8d0c12d0a49201359243
+Directory: 3
+Architectures: amd64, arm32v5, arm32v7, arm64v8, i386, mips64le, ppc64le, s390x
+
+Tags: volume-driver
+GitCommit: 5c43606f86c6e54511f8be444ffc217750d0556f
+Directory: mfs-volume-driver
+Architectures: amd64, arm32v7, arm64v8, i386, ppc64le, s390x

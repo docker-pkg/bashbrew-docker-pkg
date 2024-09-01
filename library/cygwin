@@ -1,0 +1,18 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: winltsc2022
+GitCommit: a764f9a4659b0c54853f1b902eaf77ac21f9ad4f
+Directory: cygwin
+File: Dockerfile.ltsc2022
+Architectures: windows-amd64
+Constraints: windowsservercore-ltsc2022
+SharedTags: latest
+
+Tags: win1809
+GitCommit: a764f9a4659b0c54853f1b902eaf77ac21f9ad4f
+Directory: cygwin
+File: Dockerfile.1809
+Architectures: windows-amd64
+Constraints: windowsservercore-1809
+SharedTags: latest

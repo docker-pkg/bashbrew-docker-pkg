@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 0.33.0, 0.33, 0, latest
+GitCommit: 204ed3a6a003bde6ee7497a2f6158cee305c8f00
+Directory: tinygo

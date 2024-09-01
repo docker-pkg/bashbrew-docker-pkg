@@ -1,0 +1,11 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: latest, dind
+GitCommit: 7683db3af35fa93d3565518889d2be26cd58954b
+Directory: docker-master
+
+Tags: containerd
+GitCommit: b599499292b75c9f01f8f8cd3141a288028fffc9
+Directory: docker-master
+File: Dockerfile.containerd

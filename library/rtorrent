@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: latest
+GitCommit: 883a7632cd39d13812510e1e5973426601ccea5e
+Directory: rtorrent

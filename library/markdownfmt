@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/markdownfmt.git
+
+Tags: latest
+GitCommit: d5753b21fbb9f161cd74eab4ba21b67b51046593
+Architectures: amd64, arm32v6, arm32v7, arm64v8, i386, ppc64le, s390x

@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 2.0.0, 2.0, 2, latest
+GitCommit: e82cf40d4cc74b38756c30e253ce6718faa68174
+Directory: beets

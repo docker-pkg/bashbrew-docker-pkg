@@ -1,0 +1,11 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: latest
+GitCommit: bfa71889cd8e48e7a1d2632422785c479bd9bd45
+Directory: true
+
+Tags: yolo
+GitCommit: 47fe0d0cb5ede5a36907162c25b058fd926f22fc
+Directory: true
+File: Dockerfile.yolo

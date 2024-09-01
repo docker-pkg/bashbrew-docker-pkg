@@ -1,0 +1,7 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+Architectures: amd64, arm64v8, mips64le, ppc64le, s390x
+
+Tags: 1.11.3, 1.11, 1, latest
+GitCommit: c40c6eb6455d628736dd89e781fa1920a684b17b
+Directory: coredns

@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: 9.0.0.0, 9.0.0, 9.0, 9, latest
+GitCommit: 4896e252535e8256964ad40f771043a850061e7f
+Directory: wine

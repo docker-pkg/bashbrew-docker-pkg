@@ -1,0 +1,6 @@
+Maintainers: Docker Package <docker-pkg@docker-pkg.xyz> (@docker-pkg)
+GitRepo: https://github.com/docker-pkg/dockerfiles.git
+
+Tags: latest
+GitCommit: f14c82ccb2903681ae60bd5bb744a0bfd6564755
+Directory: mutt-gmail
